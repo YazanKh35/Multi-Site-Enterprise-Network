@@ -152,6 +152,10 @@ The difference between understanding networking concepts and deploying them in r
 This project helped bridge that gap through hands-on implementation, troubleshooting, and validation.
 
 ---
+## 📂 Project File
+Download and explore the full Packet Tracer project:
+
+[multi-site-enterprise-network.pkt](multi-site-enterprise-network.pkt)
 
 ## 📎 Author
 **Yazan Khaled**  
