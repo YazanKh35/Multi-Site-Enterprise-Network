@@ -159,4 +159,4 @@ Download and explore the full Packet Tracer project:
 
 ## 📎 Author
 **Yazan Khaled**  
-Networking Enthusiast | CCNA Student
+Networking Enthusiast | ICT Student
