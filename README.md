@@ -97,24 +97,24 @@ The design focuses on security, high availability, segmentation, and centralized
 ## 🖼️ Network Topology
 
 ### 🔸 Full Topology
-![Topology](topology.png)
+![Topology](Topology.png)
 
 ---
 
 ### 🔸 HQ Network (VLANs + Servers)
-![HQ](hq-network.png)
+![HQ](HQ-Network.png)
 
 ---
 
 ### 🔸 Branch Network
-![Branch](branch-network.png)
+![Branch](Branch-Network.png)
 
 ---
 
 ## ✅ Verification & Testing
 
 ### 🔹 VPN Status
-![VPN](vpn-proof.png)
+![VPN](VPN-Proof.png)
 
 - Status: **QM_IDLE / ACTIVE**
 - Confirms successful IPsec tunnel establishment  
@@ -122,7 +122,7 @@ The design focuses on security, high availability, segmentation, and centralized
 ---
 
 ### 🔹 HSRP Status
-![HSRP](hsrp.png)
+![HSRP](HSRP.png)
 
 - HQ-R1: Active  
 - HQ-R2: Standby  
